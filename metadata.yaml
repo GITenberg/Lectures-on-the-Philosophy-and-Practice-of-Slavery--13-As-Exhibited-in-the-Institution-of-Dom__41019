@@ -1,0 +1,40 @@
+_repo: Lectures-on-the-Philosophy-and-Practice-of-Slavery--13-As-Exhibited-in-the-Institution-of-Dom__41019
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41019-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, William A. (William Andrew)
+    aliases:
+    - Smith, William Andrew
+    - Smith, W. A. (William Andrew)
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '40936'
+    url: http://www.gutenberg.org/2009/agents/40936
+  editor:
+    agent_name: Summers, Thomas O. (Thomas Osmond)
+    aliases:
+    - Summers, Thomas Osmond
+    - Summers, T. O. (Thomas Osmond)
+    birthdate: 1812
+    deathdate: 1882
+    gutenberg_agent_id: '32175'
+    url: http://www.gutenberg.org/2009/agents/32175
+description: ''
+gutenberg_issued: '2012-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Slavery -- United States'
+title: "Lectures on the Philosophy and Practice of Slavery\r\nAs Exhibited in the\
+  \ Institution of Domestic Slavery in the United States, with the Duties of Masters\
+  \ to Slaves"
+url: http://www.gutenberg.org/ebooks/41019
